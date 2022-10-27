@@ -6,8 +6,6 @@
 
 生活在武汉
 
-职业搬砖码农，想写代码写到 200 岁
-
-现在在[石墨武汉公司](https://shimo.im)做后端
+职业搬砖码农，现在在[石墨武汉公司](https://shimo.im)做后端
 
 如果你想聊聊，可以给我[发邮件](mailto:wanmingtom<AT>gmail.com)，也可以直接 [Twitter DM](https://twitter.com/_TomWan)。
