@@ -1,1 +1,1 @@
-### :cn:  Tom Wan
+### Tom Wan
